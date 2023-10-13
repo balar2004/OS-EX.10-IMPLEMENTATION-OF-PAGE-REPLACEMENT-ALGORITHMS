@@ -226,5 +226,6 @@ int main()
 ```
 ## Output:
 
+
 ## Result:
 Thus the implementation of OPR page replacement is successfully executed.
