@@ -55,7 +55,7 @@ int main() {
 }
 ```
 ## Output:
-
+![page2](https://github.com/balar2004/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/118791778/5345f368-2576-4e10-9013-ef8c34184171)
 ## Result:
 Thus the implementation of FIFO page replacement is successfully executed.
 
@@ -160,7 +160,7 @@ int main()
 }
 ```
 ## Output:
-
+![page3](https://github.com/balar2004/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/118791778/c38fa852-d315-47fc-80ef-1f98c8075c32)
 ## Result:
 Thus the implementation of LRU page replacement is successfully executed.
 
@@ -225,7 +225,6 @@ int main()
 }
 ```
 ## Output:
-
-
+![page4](https://github.com/balar2004/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/118791778/d5a8c527-76c4-45c2-9a3f-e21face6b796)
 ## Result:
 Thus the implementation of OPR page replacement is successfully executed.
